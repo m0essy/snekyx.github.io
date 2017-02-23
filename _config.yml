@@ -5,7 +5,7 @@ locale: de_AT
 description: I do what I must... because I can.
 logo: site-logo.png
 search: true
-url: http://snekyx.github.io
+url: https://snekyx.github.io
 # url: http://localhost:4000
 
 # Jekyll configuration
