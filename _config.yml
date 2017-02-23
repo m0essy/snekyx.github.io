@@ -5,8 +5,8 @@ locale: de_AT
 description: ideas and thoughts of a developer
 logo: site-logo.png
 search: true
-url: http://www.snekyx.com
-# url: http://localhost:4000
+# url: http://www.snekyx.com
+url: http://localhost:4000
 
 # Jekyll configuration
 
